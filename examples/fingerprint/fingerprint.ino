@@ -41,7 +41,7 @@ void setup()
 
 void loop()                     // run over and over again
 {
-  getFingerprintID();
+  getFingerprintIDez();
   delay(50);            //don't ned to run this at full speed.
 }
 
